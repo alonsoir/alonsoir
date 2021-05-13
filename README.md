@@ -33,7 +33,9 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
+<!--[![Website Badge](https://img.shields.io/badge/www.alvaroalbiach.com--lightgrey?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.alvaroalbiach.com)](https://www.alvaroalbiach.com/)-->
 [![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=red&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/@alonso.Isidoro--red?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/alonso_Isidoro)](https://twitter.com/alonso_Isidoro)
-[![CV Badge](https://img.shields.io/badge/My CV spanish--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
+
+[![CV Badge](https://img.shields.io/badge/CV--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
