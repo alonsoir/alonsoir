@@ -11,7 +11,7 @@
 - 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology, always trying to learn how to do better and being a better colleague and people.
 - {▸} Follower of [CodelyTV](https://github.com/CodelyTV), Udemy, Baeldung, O'Really Learning.
 - 🚲 &nbsp; My hobbies are reading about science and arts, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch.
-- :japanese_castle: I love sciences and arts. I am very curious, i love impresionism movement, Renoir, Van Gogh. 
+- :japanese_castle: I love sciences and arts. I am very curious, i love impresionism movement, Renoir, Van Gogh.
 
 ### 🛠 &nbsp; Tech Stack
 
@@ -37,3 +37,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=red&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/@alonso.Isidoro--red?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/alonso_Isidoro)](https://twitter.com/alonso_Isidoro)
+
+[![CV Badge](https://img.shields.io/badge/@alonso.Isidoro--red?style=flat&logo=Twitter&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
