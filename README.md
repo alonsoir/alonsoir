@@ -12,7 +12,8 @@
 - {▸} Follower of [CodelyTV](https://github.com/CodelyTV), [Udemy](https://www.udemy.com), [Baeldung](https://www.baeldung.com), [O'Really Learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F), [jacek Laskowski](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/),[Kai Waehner](https://www.kai-waehner.de)
 - 🚲 &nbsp; My hobbies are reading about science and arts, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch.
 - :japanese_castle: I love sciences and arts. I am very curious, i love impresionism movement, Renoir, Van Gogh.
-- :pencil2: I used to write in my [blog](aironman2k.wordpress.com)
+- :pencil2: I usually write in my [blog](https://aironman2k.wordpress.com)
+
 ### 🛠 &nbsp; Tech Stack
 
 - ⌨️ &nbsp; Java | Scala | SQL | BASH
