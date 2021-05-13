@@ -35,3 +35,4 @@
 <!--[![Website Badge](https://img.shields.io/badge/www.alvaroalbiach.com--lightgrey?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.alvaroalbiach.com)](https://www.alvaroalbiach.com/)-->
 [![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=white&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/@alonso.Isidoro--red?style=flat&logo=gmail&logoColor=white&link=https://twitter.com/alonso_Isidoro)](https://twitter.com/alonso_Isidoro)
