@@ -2,26 +2,30 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🏠 &nbsp; I'm from Badajoz, Spain 🥘
+- 🏠 &nbsp; I am from Badajoz, born in the city of Badajoz, province of Extremadura, Spain. 🥘
 - 💼 &nbsp; Actually I'm looking for a company based product where i can continue developing cool code as a Senior Engineer/Developer/DataEngineer.
 - 🔨 &nbsp; I'm currently working with Java, Scala, Spring Boot, Apache Spark, Apache Kafka, Microservices, Docker, K8s.
 - 🌐 &nbsp; I like to mentor, help my younger colleagues, either by giving advice, doing pair programming, curious about mob programming.
 - 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code.
 - 🌱 &nbsp; I’m currently learning about TDD, DDD, Clean architectures, DevOps culture, and more!
 - 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology, always trying to learn how to do better and being a better colleague and people.
-- {▸} Follower of [CodelyTV](https://github.com/CodelyTV), [Udemy](https://www.udemy.com), [Baeldung](https://www.baeldung.com), [O'Really Learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F), [jacek Laskowski](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/),[Kai Waehner](https://www.kai-waehner.de)
+
+- {▸} Follower of [Udemy](https://www.udemy.com), [Baeldung](https://www.baeldung.com), [O'Really Learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F), [CodelyTV](https://github.com/CodelyTV), [jacek Laskowski](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/),[Kai Waehner](https://www.kai-waehner.de), [Oscar Gómez Soriano](https://www.linkedin.com/in/ogomezso/), [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman), [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) and many others.
+
 - 🚲 &nbsp; My hobbies are reading about science and arts, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch.
-- :japanese_castle: I love sciences and arts. I am very curious, i love impresionism movement, Renoir, Van Gogh.
-- :pencil2: I usually write in my [blog](https://aironman2k.wordpress.com)
+
+- :japanese_castle: I love sciences and arts. I am very curious, i love [impresionism](https://en.wikipedia.org/wiki/Impressionism) movement, Renoir, Van Gogh, Also of course the great ancient Spanish masters of [painting](https://en.wikipedia.org/wiki/Spanish_art), Goya, Velazquez, Murillo. Picasso not so much. I don't understand him.
+
+- :pencil2: I usually write in my [blog](https://aironman2k.wordpress.com) and share comments in [Twitter](https://twitter.com/alonso_Isidoro)
 
 ### 🛠 &nbsp; Tech Stack
 
 - ⌨️ &nbsp; Java | Scala | SQL | BASH
-- 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices
+- 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices | many others 
+- :godmode &nbsp: Test Driven Design, TDD first, Domain Driven Design, Pair/Mob Programming
 - 🛢 &nbsp; MySQL | PostgreSQL | Oracle | MongoDB | ElasticSearch | Cassandra
 - 🔧 &nbsp; Git | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Kibana | Logstash | Ansible
 - 🖥 &nbsp; Mac | Linux | IntelliJ | Eclipse | GitHub | GitLab
-
 
 ### 📚 &nbsp; I'd like to Learn
 
@@ -38,5 +42,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=red&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/@alonso.Isidoro--red?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/alonso_Isidoro)](https://twitter.com/alonso_Isidoro)
-
-[![CV Badge](https://img.shields.io/badge/CV--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
+[![CV Badge](https://img.shields.io/badge/Spanish CV--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
+[![CV Badge](https://img.shields.io/badge/English CV--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-Budapest.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-Budapest.pdf)
