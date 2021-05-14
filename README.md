@@ -39,9 +39,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <!--[![Website Badge](https://img.shields.io/badge/www.alvaroalbiach.com--lightgrey?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.alvaroalbiach.com)](https://www.alvaroalbiach.com/)-->
-[![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
+[![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=3380FF&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=red&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/@alonso.Isidoro--red?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/alonso_Isidoro)](https://twitter.com/alonso_Isidoro)
+[![Twitter Badge](https://img.shields.io/badge/@alonso.Isidoro--blue?style=flat&logo=Twitter&logoColor=33B8FF&link=https://twitter.com/alonso_Isidoro)](https://twitter.com/alonso_Isidoro)
+[![Gitshowcase Badge](https://img.shields.io/badge/GitShowCase--red?style=flat-square&logo=appveyor&logoColor=green&link=https://www.gitshowcase.com/alonsoir)](https://www.gitshowcase.com/alonsoir)
 [![About.me Badge](https://img.shields.io/badge/About.me--red?style=flat-square&logo=appveyor&logoColor=blue&link=https://about.me/alonso.isidoro.roman/getstarted)](https://about.me/alonso.isidoro.roman/getstarted)
 [![CV Badge](https://img.shields.io/badge/SpanishCV--red?style=flat-square&logo=appveyor&logoColor=red&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
 [![CV Badge](https://img.shields.io/badge/EnglishCV--red?style=flat-square&logo=appveyor&logoColor=yellow&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-Budapest.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-Budapest.pdf)
