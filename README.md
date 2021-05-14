@@ -21,7 +21,7 @@
 ### 🛠 &nbsp; Tech Stack
 
 - ⌨️ &nbsp; Java | Scala | SQL | BASH
-- 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices | many others 
+- 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices | many others
 - :godmode &nbsp: Test Driven Design, TDD first, Domain Driven Design, Pair/Mob Programming
 - 🛢 &nbsp; MySQL | PostgreSQL | Oracle | MongoDB | ElasticSearch | Cassandra
 - 🔧 &nbsp; Git | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Kibana | Logstash | Ansible
@@ -42,5 +42,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=red&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/@alonso.Isidoro--red?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/alonso_Isidoro)](https://twitter.com/alonso_Isidoro)
-[![CV Badge](https://img.shields.io/badge/Spanish CV--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
-[![CV Badge](https://img.shields.io/badge/English CV--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-Budapest.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-Budapest.pdf)
+
+[![CV Badge](https://img.shields.io/badge/Spanish-CV--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
+
+[![CV Badge](https://img.shields.io/badge/English-CV--red?style=flat&logo=cv&logoColor=blue&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-Budapest.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-Budapest.pdf)
