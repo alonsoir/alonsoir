@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp; About Me
 
 - 🏠 &nbsp; I am from Badajoz, born in the city of Badajoz, province of Extremadura, Spain. 🥘
-- 💼 &nbsp; Actually I'm looking for a company based product where i can continue developing cool code as a Senior Engineer/Developer/DataEngineer.
-- 🔨 &nbsp; I'm currently working with Java, Scala, Spring Boot, Apache Spark, Apache Kafka, Microservices, Docker, K8s.
+- 💼 &nbsp; Actually I'm looking for a company based product where i can continue developing cool code as a Software Engineer/Backend/DataEngineer/Software Architect/DevOps Engineer.
+- 🔨 &nbsp; I'm currently working with Java, Scala, Spring Boot, Apache Spark, Apache Kafka, Microservices, Docker, K8s, Jenkins, Ansible, linux.
 - 🌐 &nbsp; I like to mentor, help my younger colleagues, either by giving advice, doing pair programming, curious about mob programming.
 - 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code.
 - 🌱 &nbsp; I’m currently learning about TDD, DDD, Clean architectures, DevOps culture, and more!
@@ -21,7 +21,7 @@
 ### 🛠 &nbsp; Tech Stack
 
 - ⌨️ &nbsp; Java | Scala | SQL | BASH
-- 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices | many others
+- 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices | Machine learning | Deep learning | Natural language processing
 - :godmode: &nbsp; Test Driven Design, TDD first, Domain Driven Design, Pair/Mob Programming
 - 🛢 &nbsp; MySQL | PostgreSQL | Oracle | MongoDB | ElasticSearch | Cassandra
 - 🔧 &nbsp; Git | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Kibana | Logstash | Ansible
@@ -34,7 +34,7 @@
 - 📝 &nbsp; More about DevOps culture. CI/CD Pipelines.
 - 🧰 &nbsp; More about Machine learning, Deep learning, Natural language processing.
 - 🌐 &nbsp; More about Test Driven Design and Domain Driven Design.
-- 📱 &nbsp; Android | iOS | Quantum Computing.
+- 📱 &nbsp; Quantum Computing | iOS | Android.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
