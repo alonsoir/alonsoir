@@ -16,7 +16,7 @@
 
 - :japanese_castle: I love sciences and arts. I am very curious, i love [impresionism](https://en.wikipedia.org/wiki/Impressionism) movement, Renoir, Van Gogh, Also of course the great ancient Spanish masters of [painting](https://en.wikipedia.org/wiki/Spanish_art), Goya, Velazquez, Murillo. Picasso not so much. I don't understand him.
 
-- :pencil2: I usually write in my [blog](https://aironman2k.wordpress.com) and share comments in [Twitter](![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Falonso_Isidoro))
+- :pencil2: I usually write in my [blog](https://aironman2k.wordpress.com) and share comments in ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Falonso_Isidoro)
 
 ### 🛠 &nbsp; Tech Stack
 
