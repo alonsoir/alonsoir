@@ -1,0 +1,142 @@
+Quiero crear un Round Robin DNS entre dos contenedores subscritos a la misma red.
+Podría crear una red, pero voy a ver si reutilizo una ya existente:
+
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:19:36P
+  /Users/aironman/gitProjects/alonsoir> docker network ls
+  NETWORK ID     NAME         DRIVER    SCOPE
+  388b87a4fab1   bridge       bridge    local
+  4d9a90153692   host         host      local
+  f5ee6ba1b9b4   my_app_net   bridge    local
+  ba3d265296de   none         null      local
+
+Vale, voy a usar la red de tipo bridge my_app_net que usé para un ejemplo anterior.
+Crear una red nueva de tipo bridge se puede hacer con el comando:
+
+docker network create my_app_net
+Creará una red de tipo bridge con el nombre my_app_net
+
+Me bajo una imagen de elasticsearch para crear un par de contenedores adscritos
+a la red anterior.
+
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:19:42P
+  /Users/aironman/gitProjects/alonsoir> docker pull elasticsearch:2
+  ...
+  Digest: sha256:41ed3a1a16b63de740767944d5405843db00e55058626c22838f23b413aa4a39
+  Status: Downloaded newer image for elasticsearch:2
+  docker.io/library/elasticsearch:2
+
+Creo un contenedor subscrito a la red my_app_net. Le asigno un alias llamado search.
+
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:21:18P
+  /Users/aironman/gitProjects/alonsoir> docker container run --detach --net my_app_net --net-alias search elasticsearch:2
+  cec97147c00ecdff0ac03d07be7ab86d74044b9e7ad353bd76c82d7b29aab389
+
+Creo otro contenedor más. Como ves, no les doy un nombre
+
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:22:19P
+  /Users/aironman/gitProjects/alonsoir> docker container run --detach --net my_app_net --net-alias search elasticsearch:2
+  77dd9d105e4897bdef2710eee982727fec8db0906dd2cdcdf9511a6766b4758d
+
+#Los contenedores están ahí.
+
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:22:26P
+  /Users/aironman/gitProjects/alonsoir> docker container ls
+  CONTAINER ID   IMAGE             COMMAND                  CREATED          STATUS          PORTS                NAMES
+  77dd9d105e48   elasticsearch:2   "/docker-entrypoint.…"   12 seconds ago   Up 10 seconds   9200/tcp, 9300/tcp   wizardly_sutherland
+  cec97147c00e   elasticsearch:2   "/docker-entrypoint.…"   19 seconds ago   Up 17 seconds   9200/tcp, 9300/tcp   funny_hoover
+
+Ejecutamos un comando nslook en una shell alpine sobre el alias de la red.
+Podemos apreciar que hay dos ips asignadas a esa red.
+
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:25:25P
+  /Users/aironman/gitProjects/alonsoir> docker container run --rm --net my_app_net alpine nslookup search
+  Server:		127.0.0.11
+  Address:	127.0.0.11:53
+
+  Non-authoritative answer:
+  *** Can't find search: No answer
+
+  Non-authoritative answer:
+  Name:	search
+  Address: 172.18.0.2
+  Name:	search
+  Address: 172.18.0.3
+
+Ejecutamos el comando curl en una shell centos.
+Ejecutando unas cuantas veces podemos apreciar que el Round Robin DNS lookup
+está funcionando.
+
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:25:36P
+  /Users/aironman/gitProjects/alonsoir> docker container run --rm --net my_app_net centos curl -s search:9200
+  Unable to find image 'centos:latest' locally
+  latest: Pulling from library/centos
+  7a0437f04f83: Pull complete
+  Digest: sha256:5528e8b1b1719d34604c87e11dcd1c0a20bedf46e83b5632cdeac91b8c04efc1
+  Status: Downloaded newer image for centos:latest
+  {
+    "name" : "Sea Urchin",
+    "cluster_name" : "elasticsearch",
+    "cluster_uuid" : "Fn0qeT34QcieqsBbMpXiKg",
+    "version" : {
+      "number" : "2.4.6",
+      "build_hash" : "5376dca9f70f3abef96a77f4bb22720ace8240fd",
+      "build_timestamp" : "2017-07-18T12:17:44Z",
+      "build_snapshot" : false,
+      "lucene_version" : "5.5.4"
+    },
+    "tagline" : "You Know, for Search"
+  }
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:28:01P
+  /Users/aironman/gitProjects/alonsoir> docker container run --rm --net my_app_net centos curl -s search:9200
+  {
+    "name" : "Sea Urchin",
+    "cluster_name" : "elasticsearch",
+    "cluster_uuid" : "Fn0qeT34QcieqsBbMpXiKg",
+    "version" : {
+      "number" : "2.4.6",
+      "build_hash" : "5376dca9f70f3abef96a77f4bb22720ace8240fd",
+      "build_timestamp" : "2017-07-18T12:17:44Z",
+      "build_snapshot" : false,
+      "lucene_version" : "5.5.4"
+    },
+    "tagline" : "You Know, for Search"
+  }
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:28:08P
+  /Users/aironman/gitProjects/alonsoir> docker container run --rm --net my_app_net centos curl -s search:9200
+  {
+    "name" : "Sea Urchin",
+    "cluster_name" : "elasticsearch",
+    "cluster_uuid" : "Fn0qeT34QcieqsBbMpXiKg",
+    "version" : {
+      "number" : "2.4.6",
+      "build_hash" : "5376dca9f70f3abef96a77f4bb22720ace8240fd",
+      "build_timestamp" : "2017-07-18T12:17:44Z",
+      "build_snapshot" : false,
+      "lucene_version" : "5.5.4"
+    },
+    "tagline" : "You Know, for Search"
+  }
+
+Vemos que las tres primeras veces que hemos ejecutado el comando, aparece el mismo contenedor.
+A la cuarta, aparece el otro contenedor.
+Se debe a que el algoritmo RR sobre las DNS es como el hermano pobre de los
+RR DNS. Verdaderamente no es un buena implementacion RR DNS.
+Pero nos sirve para demostrar que si a la hora de ejecutar un comando Docker
+para acceder a los contenedores, podemos y debemos usar el nombre de la red
+para que Docker llame a uno u otro y así pueda distribuir la carga.
+
+  █▓▒░aironman@MacBook-Pro-de-Alonso░▒▓██▓▒░ Tue May 18 12:28:22P
+  /Users/aironman/gitProjects/alonsoir> docker container run --rm --net my_app_net centos curl -s search:9200
+  {
+    "name" : "Jens Meilleur Slap Shot",
+    "cluster_name" : "elasticsearch",
+    "cluster_uuid" : "56sNewpwTpaqaFiE7LSFVg",
+    "version" : {
+      "number" : "2.4.6",
+      "build_hash" : "5376dca9f70f3abef96a77f4bb22720ace8240fd",
+      "build_timestamp" : "2017-07-18T12:17:44Z",
+      "build_snapshot" : false,
+      "lucene_version" : "5.5.4"
+    },
+    "tagline" : "You Know, for Search"
+  }
