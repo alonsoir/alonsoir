@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🏠 &nbsp; I am from Badajoz, pacense, born in the city of Badajoz, province of Extremadura, Spain. 🥘
+- 🏠 &nbsp; I am from [Badajoz](https://es.wikipedia.org/wiki/Badajoz), pacense, born in the city of Badajoz, province of Extremadura, Spain. 🥘
 - 💼 &nbsp; Actually I'm looking for a company based product where i can continue developing cool code as a Software Engineer/Backend/DataEngineer/Software Architect/DevOps Engineer in full remote. I do not want to relocate to another city again.
 - 🔨 &nbsp; I'm currently working with Java, Scala, Spring Boot, Apache Spark, Apache Kafka, Microservices, Docker, K8s, Jenkins, Ansible, GNU/Linux.
 - 🌐 &nbsp; I like to mentor, help my younger colleagues, either by giving advice, doing pair programming, curious about mob programming.
