@@ -37,8 +37,6 @@
 - 🌐 &nbsp; More about Test Driven Design and Domain Driven Design.
 - 📱 &nbsp; Quantum Computing | iOS | Android.
 
-[license](https://img.shields.io/github/license/alonsoir/alonsoir?style=plastic)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <!--[![Website Badge](https://img.shields.io/badge/www.alvaroalbiach.com--lightgrey?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.alvaroalbiach.com)](https://www.alvaroalbiach.com/)-->
