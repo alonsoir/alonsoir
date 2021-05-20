@@ -7,8 +7,9 @@
 - 🔨 &nbsp; I'm currently working with Java, Scala, Spring Boot, Apache Spark, Apache Kafka, Microservices, Docker, K8s, Jenkins, Ansible, linux.
 - 🌐 &nbsp; I like to mentor, help my younger colleagues, either by giving advice, doing pair programming, curious about mob programming.
 - 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code.
-- 🌱 &nbsp; I’m currently learning about TDD, DDD, Clean architectures, DevOps culture, and more!
+- 🌱 &nbsp; I’m currently [learning](https://github.com/alonsoir/alonsoir.github.io/tree/master/certs) more about TDD, DDD, Clean architectures, DevOps culture, advanced Kafka technology, advanced apache Spark, and Kubernetes.
 - 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology, always trying to learn how to do better and being a better colleague and people.
+
 
 - {▸} Follower of [Udemy](https://www.udemy.com), [Baeldung](https://www.baeldung.com), [O'Really Learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F), [CodelyTV](https://github.com/CodelyTV), [Jacek Laskowski](https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/),[Kai Waehner](https://www.kai-waehner.de), [Oscar Gómez Soriano](https://www.linkedin.com/in/ogomezso/), [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman), [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) and many others.
 
