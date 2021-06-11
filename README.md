@@ -4,7 +4,7 @@
 
 - 🏠 &nbsp; I am from [Badajoz](https://es.wikipedia.org/wiki/Badajoz), pacense, born in the city of Badajoz, province of Extremadura, Spain. 🥘
 - 💼 &nbsp; Actually I have signed to work for [Indizen](https://indizen.com), specifically for [Banco Santander](https://www.bancosantander.es/particulares) as a Tech Lead Big Data engineer in full remote. I do not want to relocate to another city again.
-- 🔨 &nbsp; I'm currently working with Java, Scala, Spring Boot, Apache Spark, Apache Kafka, Microservices, Docker, K8s, Jenkins, Ansible, GNU/Linux.
+- 🔨 &nbsp; I'm currently working with Java, Scala, Spring Boot, Apache Spark, Apache Flink, Apache Kafka, Microservices, Docker, K8s, Jenkins, Ansible, GNU/Linux.
 - 🌐 &nbsp; I like to mentor, help my younger colleagues, either by giving advice, doing pair programming, curious about mob programming.
 - 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code.
 - 🌱 &nbsp; I’m currently [learning](https://github.com/alonsoir/alonsoir.github.io/tree/master/certs) more about TDD, DDD, Clean architectures, DevOps culture, advanced Kafka technology, advanced apache Spark, and Kubernetes.
