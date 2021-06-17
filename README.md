@@ -33,14 +33,17 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <!--[![Website Badge](https://img.shields.io/badge/www.alvaroalbiach.com--lightgrey?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.alvaroalbiach.com)](https://www.alvaroalbiach.com/)-->
-[![Twitter Badge](https://img.shields.io/twitter/follow/alonso_isidoro?style=social])(https://twitter.com/alonso_Isidoro)
+[![Twitter Badge](https://img.shields.io/twitter/follow/alonso_isidoro?style=social])](https://twitter.com/alonso_Isidoro)
+
 [![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
+
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=white&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
 
-[![Spanish CV Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--red?style=flat&logo=Linkedin&logoColor=white&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
-[![English CV Badge](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-riga.pdf)
+[![Spanish CV Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--red?style=flat&logo=cv&logoColor=white&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
+
+[![English CV Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--red?style=flat&logo=cv&logoColor=black&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/resume%20Alonso%20Isidoro%20Román%20Feb%202020-riga.pdf)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://stackoverflow.com/users/449303/aironman) [![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/eyllanesc/stackoverflow/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/AIsidoroRoman?locale.x=es_ES)
 [![BuyMeACoffe](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aironman)
 
-<a href="https://stackoverflow.com/users/449303/aironman?tab=profile"><img src="https://stackoverflow.com/users/flair/449303.png" width="208" height="58" alt="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer" title="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer"></a>
+<a href="https://stackoverflow.com/users/449303/aironman?tab=profile"><img src="https://stackoverflow.com/users/flair/449303.png" width="100" height="28" alt="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer" title="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer"></a>
