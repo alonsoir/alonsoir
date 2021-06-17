@@ -9,8 +9,8 @@
 - 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code.
 - 🌱 &nbsp; I’m currently learning about TDD, DDD, Clean architectures, DevOps culture, and more!
 - 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology, always trying to learn how to do better.
-- {▸} Follower of [CodelyTV](https://github.com/CodelyTV) and Udemy.
-- 🚲 &nbsp; My hobbies are reading about science and arts, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch. .
+- {▸} Follower of [Udemy](https://www.udemy.com), [CodelyTV](https://github.com/CodelyTV) and [OReilly learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F).
+- 🚲 &nbsp; My hobbies are reading about science and arts, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch. lately I've been fond of taking [courses](https://github.com/alonsoir/alonsoir.github.io/tree/master/certs) on Udemy.
 
 ### 🛠 &nbsp; Tech Stack
 
