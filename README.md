@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp; About Me
 
 - 🏠 &nbsp; I'm from Badajoz, Spain 🥘
-- 💼 &nbsp; Actually I'm looking for a company based product where i can continue developing cool code as a Senior Engineer/Developer/DataEngineer.
-- 🔨 &nbsp; I'm currently working with Java, Scala, bash, Spring Boot, Apache Spark, Apache Kafka, Microservices, Docker, K8s.
+- 💼 &nbsp; I am calmly looking for a company that develops a differential product from its competition, where they treat you with dignity and respect and make the world a better place to live.
+- 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring Boot, Apache Spark, Apache Flink, Apache Kafka, Microservices, Docker, K8s, but above all the scientific analysis based on verifiable evidence by third parties.
 - 🌐 &nbsp; I like a lot to mentor, help my younger colleagues, either by giving advice, doing pair programming with them,i am also curious about mob programming.
 - 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code.
 - 🌱 &nbsp; I’m currently learning about TDD, DDD, Clean architectures, DevOps culture, and more!
@@ -30,11 +30,12 @@
 - 🌐 &nbsp; More about Test Driven Design and Domain Driven Design
 - 📱 &nbsp; Android | iOS
 
-### 📚 &nbsp; What I do not like
+### :sweat: &nbsp; What I do not like
 
 - :expressionless: &nbsp; I don't like taking apart monoliths in microservices unless I have full support and we can do it by following TDD and DDD.
 - :pensive: &nbsp; If I say that you have to refactor often, avoid duplicate code, do a lot of testing and have an automated CI / CD mechanism, it is not on a whim.
-- :thumbsdown: &nbsp; I like sincerity above all, I do not like to be deceived or tried to manipulate me..
+- :thumbsdown: &nbsp; I like sincerity above all, I do not like to be deceived or tried to manipulate me.
+- :raised_hands: &nbsp; Please don't call me directly on the phone if I don't have you on my agenda. Contact me through these links.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -48,7 +49,7 @@
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://stackoverflow.com/users/449303/aironman) [![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/eyllanesc/stackoverflow/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/AIsidoroRoman?locale.x=es_ES)
 [![BuyMeACoffe](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aironman)
 
-<h3> 🤝🏻 License </h3>
+<h3> :memo: &nbsp; License </h3>
 
 Free software: [MIT license](https://github.com/alonsoir/stackoverflow/blob/master/LICENSE)
 
