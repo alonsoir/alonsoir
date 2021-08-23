@@ -32,9 +32,7 @@
 
 ### :sweat: &nbsp; What I do not like
 
-- :expressionless: &nbsp; I don't like taking apart monoliths in microservices unless I have full support and we can do it by following TDD and DDD.
-- :pensive: &nbsp; If I say that you have to refactor often, avoid duplicate code, do a lot of testing and have an automated CI / CD mechanism, it is not on a whim.
-- :thumbsdown: &nbsp; I like sincerity above all, I do not like to be deceived or tried to manipulate me.
+- :thumbsdown: &nbsp; I do not like to be deceived or tried to manipulate me.
 - :raised_hands: &nbsp; Please don't call me directly on the phone if I don't have you on my agenda. Contact me through these links.
 
 <h3> 🤝🏻 Connect with Me </h3>
