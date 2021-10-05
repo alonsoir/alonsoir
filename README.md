@@ -32,7 +32,6 @@
 
 ### :sweat: &nbsp; What I do not like
 
-- :thumbsdown: &nbsp; I do not like to be deceived or tried to manipulate me.
 - :raised_hands: &nbsp; Please don't call me directly on the phone if I don't have you on my agenda. Contact me through these links.
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -50,6 +49,9 @@
 <h3> :memo: &nbsp; License </h3>
 
 Free software: [MIT license](https://github.com/alonsoir/stackoverflow/blob/master/LICENSE)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alonsoir&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
 
 <!--
 <a href="https://stackoverflow.com/users/449303/aironman?tab=profile"><img src="https://stackoverflow.com/users/flair/449303.png" width="100" height="28" alt="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer" title="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer"></a>
