@@ -44,8 +44,8 @@
 [![English CV Badge](https://img.shields.io/badge/English%20CV--red?style=flat&logo=cv&logoColor=black&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Alonso_Isidoro_Román_-_Software_Artesan-Sept-2021.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Alonso_Isidoro_Román_-_Software_Artesan-Sept-2021.pdf)
 
 
-[![Stack Exchange reputation](https://github-stack-overflow-stats.vercel.app/api/index?user=449303&site=stackoverflow) 
-[![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/aironman/stackoverflow/blob/master/LICENSE)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://github-stack-overflow-stats.vercel.app/api/index?user=449303&site=stackoverflow) 
+[![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/eyllanesc/stackoverflow/blob/master/LICENSE)
 [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/AIsidoroRoman?locale.x=es_ES)
 [![BuyMeACoffe](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aironman)
 
@@ -56,11 +56,15 @@ Free software: [MIT license](https://github.com/alonsoir/stackoverflow/blob/mast
 <!-- themes can be dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alonsoir&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alonsoir&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsoir&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonsoir&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 <a href="https://stackoverflow.com/users/449303/aironman?tab=profile"><img src="https://stackoverflow.com/users/flair/449303.png" width="100" height="28" alt="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer" title="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer"></a>
