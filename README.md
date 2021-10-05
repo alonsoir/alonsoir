@@ -43,7 +43,10 @@
 [![Spanish CV Badge](https://img.shields.io/badge/Spanish%20CV--yellow?style=flat&logo=cv&logoColor=white&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
 [![English CV Badge](https://img.shields.io/badge/English%20CV--red?style=flat&logo=cv&logoColor=black&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Alonso_Isidoro_Román_-_Software_Artesan-Sept-2021.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Alonso_Isidoro_Román_-_Software_Artesan-Sept-2021.pdf)
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://stackoverflow.com/users/449303/aironman) [![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/eyllanesc/stackoverflow/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/AIsidoroRoman?locale.x=es_ES)
+
+[![Stack Exchange reputation](https://github-stack-overflow-stats.vercel.app/api/index?user=449303&site=stackoverflow) 
+[![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/aironman/stackoverflow/blob/master/LICENSE)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/AIsidoroRoman?locale.x=es_ES)
 [![BuyMeACoffe](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aironman)
 
 <h3> :memo: &nbsp; License </h3>
