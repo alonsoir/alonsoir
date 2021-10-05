@@ -45,7 +45,7 @@
 
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://github-stack-overflow-stats.vercel.app/api/index?user=449303&site=stackoverflow) 
-[![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/eyllanesc/stackoverflow/blob/master/LICENSE)
+<!--[![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/eyllanesc/stackoverflow/blob/master/LICENSE) -->
 [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/AIsidoroRoman?locale.x=es_ES)
 [![BuyMeACoffe](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aironman)
 
