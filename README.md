@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🏠 &nbsp; I'm from Badajoz, Spain 🥘
+- 🏠 &nbsp; I was born in Badajoz, located at Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live in Badajoz. 🥘
 - 💼 &nbsp; I am calmly looking for a company that develops a differential product from its competition, where they treat you with dignity and respect and make the world a better place to live.
 - 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring Boot, Apache Spark, Apache Flink, Apache Kafka, Microservices, Docker, K8s, but above all the scientific analysis based on verifiable evidence by third parties.
 - 🌐 &nbsp; I like a lot to mentor, help my younger colleagues, either by giving advice, doing pair programming with them,i am also curious about mob programming.
