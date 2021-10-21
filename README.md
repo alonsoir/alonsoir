@@ -61,7 +61,7 @@ Free software: [MIT license](https://github.com/alonsoir/stackoverflow/blob/mast
 </a>
 -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsoir&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsoir&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonsoir&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
