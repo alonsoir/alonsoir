@@ -55,10 +55,11 @@ Free software: [MIT license](https://github.com/alonsoir/stackoverflow/blob/mast
 
 <!-- themes can be dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alonsoir&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-
+-->
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsoir&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
