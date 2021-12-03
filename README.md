@@ -4,31 +4,31 @@
 
 - 🏠 &nbsp; I was born in Badajoz, located at Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live in Badajoz. 🥘
 - 💼 &nbsp; I am calmly looking for a company that develops a differential product from its competition, where they treat you with dignity and respect and make the world a better place to live.
-- 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring Boot, Apache Spark, Apache Flink, Apache Kafka, Microservices, Docker, K8s, but above all the scientific analysis based on verifiable evidence by third parties.
+- 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring Boot, Apache Spark, Apache Flink, Apache Kafka, Microservices, Docker/Containers, K8s, but above all the scientific analysis based on verifiable evidence by third parties.
 - 🌐 &nbsp; I like a lot to mentor, help my younger colleagues, either by giving advice, doing pair programming with them,i am also curious about mob programming.
-- 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code.
-- 🌱 &nbsp; I’m currently learning about TDD, DDD, Clean architectures, DevOps culture, and more!
+- 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code. I like the idea of Trunk based development. I’m currently a great fan of TDD, DDD and clean architectures.
+- 🌱 &nbsp; I am currently learning DevOps culture, at least, trying to get the most important concepts to work as SRE. Updating concepts from Confluent Platform like kafka-streams, kafka-connect, ksqldb, schema-registry, Apache Spark Streaming Delta Lake concepts.
 - 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology, always trying to learn how to do better.
 - {▸} Follower of [Udemy](https://www.udemy.com), [CodelyTV](https://github.com/CodelyTV) and [OReilly learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F).
-- 🚲 &nbsp; My hobbies are reading about science and arts, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch. Lately I've been fond of taking [courses](https://github.com/alonsoir/alonsoir.github.io/tree/master/certs) on Udemy.
+- 🚲 &nbsp; My hobbies are reading about science and arts, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch. Lately I've been fond of taking [courses](https://github.com/alonsoir/alonsoir.github.io/tree/master/certs) on Udemy. This year i have finished 13 of them, and counting.
 
 ### 🛠 &nbsp; Tech Stack
 
 - ⌨️ &nbsp; Java | Scala | SQL | BASH
 - 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices
 - 🛢 &nbsp; MySQL | PostgreSQL | Oracle | MongoDB | ElasticSearch | Cassandra
-- 🔧 &nbsp; Git | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Kibana | Logstash | Ansible
-- 🖥 &nbsp; Mac | Linux | IntelliJ | Eclipse | GitHub | GitLab
+- 🔧 &nbsp; Git | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Prometheus | Kibana/Grafana | Logstash | Ansible
+- 🖥 &nbsp; Mac | Linux | IntelliJ | Eclipse | VsCode | GitHub | GitLab
 
 
 ### 📚 &nbsp; I'd like to Learn
 
-- 🌱 &nbsp; More about Cloud Architecture, CQRS, Event Sourcing, Apache Spark, Apache Kafka  
-- 🔧 &nbsp; More about Cloud technologies
-- 📝 &nbsp; More about DevOps culture
-- 🧰 &nbsp; More about Machine learning, Deep learning, Natural language processing...
-- 🌐 &nbsp; More about Test Driven Design and Domain Driven Design
-- 📱 &nbsp; Android | iOS
+- 🌱 &nbsp; More about Cloud Architecture, Software Patterns, Event Sourcing, Apache Spark, Apache Kafka.  
+- 🔧 &nbsp; Astrophysics.
+- 📝 &nbsp; More about DevOps culture, adding more steps to the pipeline like security concepts.
+- 🧰 &nbsp; More about Machine learning, Deep learning, Natural language processing, photo recognition image.
+- 🌐 &nbsp; More about Test Driven Design and Domain Driven Design.
+- 📱 &nbsp; Cloud security.
 
 ### :sweat: &nbsp; What I do not like
 
@@ -44,7 +44,7 @@
 [![English CV Badge](https://img.shields.io/badge/English%20CV--red?style=flat&logo=cv&logoColor=black&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Alonso_Isidoro_Román_-_Software_Artesan-Sept-2021.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Alonso_Isidoro_Román_-_Software_Artesan-Sept-2021.pdf)
 
 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://github-stack-overflow-stats.vercel.app/api/index?user=449303&site=stackoverflow) 
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://github-stack-overflow-stats.vercel.app/api/index?user=449303&site=stackoverflow)
 <!--[![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/eyllanesc/stackoverflow/blob/master/LICENSE) -->
 [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg?logo=paypal)](https://paypal.me/AIsidoroRoman?locale.x=es_ES)
 [![BuyMeACoffe](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aironman)
