@@ -4,10 +4,10 @@
 
 - 🏠 &nbsp; I was born in Badajoz, located at Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live in Badajoz. 🥘
 - 💼 &nbsp; I am calmly looking for a company that develops a differential product from its competition, where they treat you with dignity and respect and make the world a better place to live.
-- 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring Boot, Apache Spark, Apache Flink, Apache Kafka, Microservices, Docker/Containers, K8s, but above all the scientific analysis based on verifiable evidence by third parties.
+- 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring framework, Apache Spark, Apache Flink, Apache Kafka/Confluent platform, Microservices, Docker/Containers, K8s, ethical hacking, but above all the scientific analysis based on verifiable evidence by third parties.
 - 🌐 &nbsp; I like a lot to mentor, help my younger colleagues, either by giving advice, doing pair programming with them,i am also curious about mob programming.
 - 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code. I like the idea of Trunk based development. I’m currently a great fan of TDD, DDD and clean architectures.
-- 🌱 &nbsp; I am currently learning DevOps culture, at least, trying to get the most important concepts to work as SRE. Updating concepts from Confluent Platform like kafka-streams, kafka-connect, ksqldb, schema-registry, Apache Spark Streaming Delta Lake concepts.
+- 🌱 &nbsp; I have learned and added skills to work as a DevOps. I have learned and added skills to work as DevOps, updated knowledge to better understand and use Kafka's Confluent platform, as well as the current version of Spark, 3.x. I am currently interested in computer security, so I am learning about ethical hacking techniques.
 - 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology, always trying to learn how to do better.
 - {▸} Follower of [Udemy](https://www.udemy.com), [CodelyTV](https://github.com/CodelyTV) and [OReilly learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F).
 - 🚲 &nbsp; My hobbies are reading about science and arts, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch. Lately I've been fond of taking [courses](https://github.com/alonsoir/alonsoir.github.io/tree/master/certs) on Udemy. This year i have finished 13 of them, and counting.
@@ -28,7 +28,7 @@
 - 📝 &nbsp; More about DevOps culture, adding more steps to the pipeline like security concepts.
 - 🧰 &nbsp; More about Machine learning, Deep learning, Natural language processing, photo recognition image.
 - 🌐 &nbsp; More about Test Driven Design and Domain Driven Design.
-- 📱 &nbsp; Cloud security.
+- 📱 &nbsp; Cloud security. Ethical hacking.
 
 ### :sweat: &nbsp; What I do not like
 
