@@ -49,8 +49,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=white&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
 [![Spanish CV Badge](https://img.shields.io/badge/Spanish%20CV--yellow?style=flat&logo=cv&logoColor=white&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Mi%20CV%20En%20Español%20para%20SOPRA%20A3%202.pdf)
-[![English CV Badge](https://img.shields.io/badge/English%20CV--red?style=flat&logo=cv&logoColor=black&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Alonso_Isidoro_Román_-_Software_Artesan-June-2022.pdf)](CV/Alonso_Isidoro_Román_-_Software_Artesan-June-2022.pdf)
 
+[![English CV Badge](https://img.shields.io/badge/English%20CV--red?style=flat&logo=cv&logoColor=black&link=https://github.com/alonsoir/alonsoir.github.io/blob/master/CV/Alonso_Isidoro_Román_-_Software_Artesan-June-2022.pdf)](https://github.com/alonsoir/alonsoir.github.io/blob/82e4fbdbfb44941fa9d4465b00ade0ab418f42e2/CV/Alonso_Isidoro_Román_-_Software_Artesan-June-2022.pdf)
+
+https://github.com/alonsoir/alonsoir.github.io/blob/82e4fbdbfb44941fa9d4465b00ade0ab418f42e2/CV/Alonso_Isidoro_Román_-_Software_Artesan-June-2022.pdf
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://github-stack-overflow-stats.vercel.app/api/index?user=449303&site=stackoverflow)
 <!--[![GitHub](https://img.shields.io/github/license/aironman/stackoverflow.svg)](https://github.com/eyllanesc/stackoverflow/blob/master/LICENSE) -->
