@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🏠 &nbsp; I was born in Badajoz, Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live there. 🥘 (i am migrating to aironman2k@protonmail.com It will be my primary email account very soon!)
+- 🏠 &nbsp; I was born in Badajoz, Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live there. 🥘 (i have a secondary account in  aironman2k@protonmail.com It will be my primary email account very soon!)
 
 - 💼 &nbsp; I would like to work in a product company, fully remote, from home..
 
@@ -14,7 +14,7 @@
 
 - 🌱 &nbsp; I have learned and added skills to work as a DevOps. I have learned and added skills to work as DevOps, updated knowledge to better understand and use Kafka's Confluent platform, as well as the current version of Spark, 3.x. I am currently interested in security, so I am learning about ethical hacking techniques in order to put them into Devops pipelines and create a culture of making software as secure as possible. It is not enough to create good development practices such as TDD and pair programming, it is necessary to pay attention to the vulnerabilities of the libraries, the operating system, web servers, applications, etc.
 
-- 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevSecOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology, Ethical hacking, always trying to learn how to do better.
+- 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevSecOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology and the ethical hacking, always trying to learn how to do better.
 
 - {▸} Follower of [Udemy](https://www.udemy.com), [CodelyTV](https://github.com/CodelyTV) and [OReilly learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F).
 
@@ -28,19 +28,19 @@
 - 🔧 &nbsp; Git | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Prometheus | Kibana/Grafana | Logstash | Ansible
 - 🖥 &nbsp; Mac | Linux | IntelliJ | Eclipse | VsCode | GitHub | GitLab
 
-
 ### 📚 &nbsp; I'd like to Learn
 
-- 🌱 &nbsp; More about Cloud Architecture, Software Patterns, Event Sourcing, Apache Spark, Apache Kafka.  
+- 🌱 &nbsp; More about Cloud Architecture, Software Patterns, Event Sourcing, Apache Spark, Apache Kafka, Apache Druid.
 - 🔧 &nbsp; Astrophysics.
 - 📝 &nbsp; More about DevOps culture, adding more steps to the pipeline like security concepts.
-- 🧰 &nbsp; More about Machine learning, Deep learning, Natural language processing, photo recognition image.
+- 🧰 &nbsp; More about Machine learning, Deep learning, Natural language processing, photo recognition image. 
 - 🌐 &nbsp; More about Test Driven Design and Domain Driven Design.
 - 📱 &nbsp; Cloud security. Ethical hacking.
+- 🖖🏻👨🏻‍🎓 &nbsp; llm ai large language models. How to train them with my content.
 
-### :sweat: &nbsp; 
+### 🙏: &nbsp;  
 
-- :raised_hands: &nbsp; Ask me for my cv by email and I'll send you a pdf copy.
+- :🖖🏻: &nbsp; Ask me for my cv by email and I'll send you a pdf copy.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
