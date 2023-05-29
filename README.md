@@ -24,9 +24,9 @@
 
 - ⌨️ &nbsp; Java | Scala | SQL | BASH
 - 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices
-- 🛢 &nbsp; MySQL | PostgreSQL | Oracle | MongoDB | ElasticSearch | Cassandra
-- 🔧 &nbsp; Git | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Prometheus | Kibana/Grafana | Logstash | Ansible
-- 🖥 &nbsp; Mac | Linux | IntelliJ | Eclipse | VsCode | GitHub | GitLab
+- 🛢 &nbsp; MySQL | PostgreSQL | MariaDB | Oracle | MongoDB | ElasticSearch | Cassandra | Impala | Hive | Ambari | Heidi
+- 🔧 &nbsp; Git | BitBucket | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Prometheus | Kibana/Grafana | Logstash | Ansible
+- 🖥 &nbsp; Mac | Linux | Windows | | IntelliJ | Eclipse | VsCode | GitHub | GitLab
 
 ### 📚 &nbsp; I'd like to Learn
 
@@ -40,13 +40,14 @@
 
 ### 🙏: &nbsp;  
 
-- :🖖🏻: &nbsp; Ask me for my cv by email and I'll send you a pdf copy.
+- :🖖🏻: &nbsp; Ask me for my cv by email and I'll send you a pdf.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <!--[![Website Badge](https://img.shields.io/badge/www.alvaroalbiach.com--lightgrey?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.alvaroalbiach.com)](https://www.alvaroalbiach.com/)-->
 [![Twitter Badge](https://img.shields.io/twitter/follow/alonso_isidoro?style=social])](https://twitter.com/alonso_Isidoro)
 [![Linkedin Badge](https://img.shields.io/badge/Alonso%20Isidoro%20Román--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)](https://www.linkedin.com/in/alonso-isidoro-roman-8ab57445/)
+              
 [![Gmail Badge](https://img.shields.io/badge/alonsoir@gmail.com--red?style=flat&logo=gmail&logoColor=white&link=mailto:alonsoir@gmail.com)](mailto:alonsoir@gmail.com)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/449303.svg)](https://github-stack-overflow-stats.vercel.app/api/index?user=449303&site=stackoverflow)
