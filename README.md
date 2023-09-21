@@ -2,11 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🏠 &nbsp; I was born in Badajoz, Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live there. 🥘 (i have a secondary account in  aironman2k@protonmail.com It will be my primary email account very soon!)
+- 🏠 &nbsp; I was born in Badajoz, Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live there. 🥘 (i have a secondary account in  aironman2k@protonmail.com It will be my primary email account some day!)
 
-- 💼 &nbsp; I would like to work in a product company, fully remote, from home..
+- 💼 &nbsp; I would like to work in a product company, fully remote, from home. My dream is to work at CERN, ESA, NASA. Space engineer.
 
 - 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring framework, Apache Spark, Apache Flink, Apache Kafka/Confluent platform, Microservices, Docker/Containers, K8s, ethical hacking, but above all the scientific analysis based on verifiable evidence by third parties.
+
+- Currently i am learning and practicing with Python 3.x. Yeah, finally...
 
 - 🌐 &nbsp; I like a lot to mentor, help my younger colleagues, either by giving advice, doing pair programming with them,i am also curious about mob programming.
 
@@ -22,7 +24,7 @@
 
 ### 🛠 &nbsp; Tech Stack
 
-- ⌨️ &nbsp; Java | Scala | SQL | BASH
+- ⌨️ &nbsp; Java | Scala | SQL | BASH | Python
 - 🧰 &nbsp; Spring Framework | Spring Boot | Spring Cloud | Apache Kafka || Apache Spark || Apache Flink || RabbitMQ | WebSockets | Microservices
 - 🛢 &nbsp; MySQL | PostgreSQL | MariaDB | Oracle | MongoDB | ElasticSearch | Cassandra | Impala | Hive | Ambari | Heidi
 - 🔧 &nbsp; Git | BitBucket | GitHub Flow | Docker | Kubernetes | AWS | SonarQube | Jenkins | Prometheus | Kibana/Grafana | Logstash | Ansible
