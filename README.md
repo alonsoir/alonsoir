@@ -8,7 +8,7 @@
 
 - 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring framework, Apache Spark, Apache Flink, Apache Kafka/Confluent platform, Microservices, Docker/Containers, K8s, ethical hacking, but above all the scientific analysis based on verifiable evidence by third parties.
 
-- Currently i am learning and practicing with Python 3.x. Yeah, finally...
+- 🔨 &nbsp; I am learning and practicing with Python 3.x doing a course with Santiago Hernandez. https://www.udemy.com/course/curso-completo-de-python-3/learn/lecture/25897200#overview. Yeah, finally...
 
 - 🌐 &nbsp; I like a lot to mentor, help my younger colleagues, either by giving advice, doing pair programming with them,i am also curious about mob programming.
 
