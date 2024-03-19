@@ -2,25 +2,28 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🏠 &nbsp; I was born in Badajoz, Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live there. 🥘 (i have a secondary account in  aironman2k@protonmail.com It will be my primary email account some day!)
-
+- 🏠 &nbsp; I was born in Badajoz, Extremadura, Spain, Earth, Solar System, Milky Way, Local Group, Virgo super cluster, local super clusters, Laniakea. I currently live there. 🥘 
 - 💼 &nbsp; I would like to work in a product company, fully remote, from home. My dream is to work at CERN, ESA, NASA. Space engineer.
 
-- 🔨 &nbsp; My set of technical tools vary from using Java, Scala, bash, Spring framework, Apache Spark, Apache Flink, Apache Kafka/Confluent platform, Microservices, Docker/Containers, K8s, ethical hacking, but above all the scientific analysis based on verifiable evidence by third parties.
+- 🔨 &nbsp; My set of technical tools vary from using Java, Scala, python, bash, Spring framework, Apache Spark, Apache Flink, Apache Kafka/Confluent platform, Microservices, Docker/Containers, K8s, ethical hacking, lately Langchain but above all the scientific analysis based on verifiable evidence by third parties.
 
-- 🔨 &nbsp; I am learning and practicing with Python 3.x doing a course with Santiago Hernandez. https://www.udemy.com/course/curso-completo-de-python-3/learn/lecture/25897200#overview. Yeah, finally...
+- 🔨 &nbsp; I am learning and practising with Python 3.x doing a lot of courses with Santiago Hernandez. From Python to cybersecurity, offensive and defensive. The idea is to understand the security problems at the TCP/IP layers, not just at the application layer.
 
-- 🌐 &nbsp; I like a lot to mentor, help my younger colleagues, either by giving advice, doing pair programming with them,i am also curious about mob programming.
+- 🌐 &nbsp; I like a lot to mentor and help my younger colleagues, either by giving advice or doing pair programming with them, i am also curious about mob programming.
 
 - 📱 &nbsp; I prefer to do pair/mob programming instead of pull requests to increase the feeling of ownership of the code. I like the idea of Trunk based development. I’m currently a great fan of TDD, DDD and clean architectures.
 
-- 🌱 &nbsp; I have learned and added skills to work as a DevOps. I have learned and added skills to work as DevOps, updated knowledge to better understand and use Kafka's Confluent platform, as well as the current version of Spark, 3.x. I am currently interested in security, so I am learning about ethical hacking techniques in order to put them into Devops pipelines and create a culture of making software as secure as possible. It is not enough to create good development practices such as TDD and pair programming, it is necessary to pay attention to the vulnerabilities of the libraries, the operating system, web servers, applications, etc.
+- 🌱 &nbsp; I have learned and added skills to work as DevSecOps, updated knowledge to understand better and use Kafka's Confluent platform, as well as the current version of Spark 3.x. I am always interested in security, so I am learning about ethical hacking techniques to put them into DevOps pipelines and create a culture of making software as secure as possible. Lately, I have started to give a lot to Langchain to try to take advantage of LLM.
 
-- 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevSecOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology and the ethical hacking, always trying to learn how to do better.
+- 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevSecOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology and ethical hacking, always trying to learn how to do better.
+- 🔨 &nbsp; I like to work, not in this order, the backend, distributed systems, event-oriented systems, big data, data engineering, data scientist, DevSecOps, good practices in software construction, cybersecurity in all the layers of TCP/IP, container technology, open source LLMs along with Langchain, in short, I love to learn.
+I don't like working with the web or JavaScript, whether on the client or the server. What's more, I would prohibit working with JavaScript that interacts with application servers. Too many security problems.
 
-- {▸} Follower of [Udemy](https://www.udemy.com), [CodelyTV](https://github.com/CodelyTV) and [OReilly learning](https://learning.oreilly.com/create-trial/?next=%2Fhome%2F).
+- 🤔 &nbsp; I think I am training to be a Principal Software Engineer, because I try to absorb everything necessary to create and maintain a product, and at the same time I am always with an eye on the future to prototype and evaluate, although probably before I get there I will be or I will try to be a teacher one day because every day it is more difficult to fight against the ageism of this profession. It doesn't help that I can only telecommute or work where I live, a small town in Extremadura. It's probably too stressful to build a product that belongs to other people.
 
-- 🚲 &nbsp; My hobbies are reading about science and arts, sci fi novels, European comics, going to Museums, beers and tapas with family and friends, playing from time to time with ps5 and Switch. Lately I've been fond of taking [courses](https://github.com/alonsoir/alonsoir.github.io/tree/master/certs) on Udemy. This year i have finished 13 of them, and counting.
+- {▸} Follower of [Udemy](https://www.udemy.com).
+  
+- 🚲 &nbsp; My hobbies are reading about science and arts, sci-fi novels, manga, European comics, going to Museums, beers and tapas with family and friends, and playing from time to time with PS5 and Switch. Lately, I've been fond of taking [courses](https://github.com/alonsoir/alonsoir.github.io/tree/master/certs) on Udemy. This year I have finished 13 of them, and counting.
 
 ### 🛠 &nbsp; Tech Stack
 
