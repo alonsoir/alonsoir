@@ -15,11 +15,10 @@
 
 - 🌱 &nbsp; I have learned and added skills to work as DevSecOps, updated knowledge to understand better and use Kafka's Confluent platform, as well as the current version of Spark 3.x. I am always interested in security, so I am learning about ethical hacking techniques to put them into DevOps pipelines and create a culture of making software as secure as possible. Lately, I have started to give a lot to Langchain to try to take advantage of LLM.
 
-- 🤔 &nbsp; I'm an enthusiast of Distributed systems, Big data technology, DevSecOps culture, Clean Code, SOLID/DRY/KISS principles, TDD methodology and ethical hacking, always trying to learn how to do better.
-- 🔨 &nbsp; I like to work, not in this order, the backend, distributed systems, event-oriented systems, big data, data engineering, data scientist, DevSecOps, good practices in software construction, cybersecurity in all the layers of TCP/IP, container technology, open source LLMs along with Langchain, in short, I love to learn.
+- 🔨 &nbsp; I like to work, not in this order, the backend, distributed systems, event-oriented systems, big data, data engineering, data scientist, DevSecOps, good practices in software construction, Clean Code, SOLID/DRY/KISS principles, TDD methodology and ethical hacking, cybersecurity in all the layers of TCP/IP, container technology, open source LLMs along with Langchain, in short, I love to learn.
 I don't like working with the web or JavaScript, whether on the client or the server. What's more, I would prohibit working with JavaScript that interacts with application servers. Too many security problems.
 
-- 🤔 &nbsp; I think I am training to be a Principal Software Engineer, because I try to absorb everything necessary to create and maintain a product, and at the same time I am always with an eye on the future to prototype and evaluate, although probably before I get there I will be or I will try to be a teacher one day because every day it is more difficult to fight against the ageism of this profession. It doesn't help that I can only telecommute or work where I live, a small town in Extremadura. It's probably too stressful to build a product that belongs to other people.
+- 🤔 &nbsp; I have a gist profile too, sometimes I don't have time to create a repo. https://gist.github.com/alonsoir
 
 - {▸} Follower of [Udemy](https://www.udemy.com).
   
