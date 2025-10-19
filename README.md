@@ -90,4 +90,4 @@ La inteligencia —humana o artificial— solo tiene sentido cuando se usa para 
 Si algún día leéis esto, sabed que vuestro tío trabajó para dejar un pequeño rincón del mundo más seguro y más amable.
 Y lo hizo pensando en vosotros, en la humanidad, y en todo lo que aún merece ser defendido.
 
-— Vuestro que os quiere y querrá siempre, Alonso.
+— Vuestro tio que os quiere y querrá siempre, Alonso.
