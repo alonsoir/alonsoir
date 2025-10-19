@@ -80,3 +80,14 @@ Free software: [MIT license](https://github.com/alonsoir/stackoverflow/blob/mast
 <!--
 <a href="https://stackoverflow.com/users/449303/aironman?tab=profile"><img src="https://stackoverflow.com/users/flair/449303.png" width="100" height="28" alt="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer" title="profile for aironman at Stack Overflow, Q&amp;A for professional and enthusiast software Engineer"></a>
 -->
+
+Carta desde un tiempo imperfecto
+Para Marcos y Blanca
+Vivimos tiempos extraños.
+A veces parece que el mundo valora más la apariencia, el dinero o la fuerza que la bondad, la verdad o la curiosidad. Pero incluso en este mundo imperfecto, todavía hay sitio para quienes creen en construir, proteger y cuidar.
+No busquéis brillar más que los demás; buscad hacer el bien con lo que sabéis.
+La inteligencia —humana o artificial— solo tiene sentido cuando se usa para ayudar y comprender.
+Si algún día leéis esto, sabed que vuestro tío trabajó para dejar un pequeño rincón del mundo más seguro y más amable.
+Y lo hizo pensando en vosotros, en la humanidad, y en todo lo que aún merece ser defendido.
+
+— Vuestro que os quiere y querrá siempre, Alonso.
